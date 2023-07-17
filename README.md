@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm Tufan Chandra Pandu, a passionate MERN Stack D
 - Digital Marketing (Basic)
 
 ## Education
-
+- PW Skills - MERN Stack Developer  
 - Bachelor of Science in Zoology Honours | Autonomous College Rayagada (2019)
 - XII (CHSE) Odisha, Bhubaneshwar | Govt Vocational JR college Laxmipur (2016)
 
