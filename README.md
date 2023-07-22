@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Background Image" style="width: 600px; height: 300px;">
 
 
-# Tufan Chandra Pandu - MERN Stack Developer
+# Tufan Pandu - MERN Stack Developer
 
 Welcome to my GitHub profile! I'm Tufan Chandra Pandu, a passionate MERN Stack Developer with a focus on building robust and scalable web applications. I'm excited about leveraging the power of the MERN stack (MongoDB, Express.js, React.js, Node.js) to create outstanding user experiences.
 
